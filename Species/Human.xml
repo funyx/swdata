@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Species>
+  <Key>HUMAN</Key>
+  <Name>Human</Name>
+  <Description>
+    [H4]Humans[h4]
+    Ubiquitous and dominant, humans are found throughout
+the galaxy. The Empire believes humans to be the
+rightful rulers of all civilization; the Alliance feels differently,
+yet most of the leadership of even this egalitarian
+organization is made up of humans. They are the least
+homogenous and most active species in known space.
+Where they go, things happen.<br/>
+Physiology: Averaging 1.8 meters in height (with
+females averaging slightly shorter), humans are mammalian
+bipeds with an internal biology that handles a
+wide variety of oxygenated environments well. Their
+mostly hairless skin spans a wide range of color from
+very dark to very light; most range in the pale-tan to
+dark brown colors, but there are distinctive variants,
+especially among those offshoots considered nearhuman.
+As omnivores, humans have a wide range of
+available food sources, as well.<br/>
+Society: Though the Empire would make it otherwise,
+humans are far too diverse and widespread throughout
+the galaxy to represent a single society. Every form of
+government ever devised can be found in places where
+humans choose to live, and economic and sociological
+differences are just as varied. Although humans
+helped advance technological developments throughout
+known space, human cultures living as true primitives
+exist as well. Generally, humans yearn for independence
+and self-determination, yet there are countless
+billions who gladly subjugate themselves under tyrannical
+rule for the promise of prosperity and security.<br/>
+Homeworld: Scholars continue to debate which of the
+Core Worlds actually stands as the true human homeworld;
+most claim it has to be Coruscant. Others are
+convinced humans did not even originate in the Core,
+instead coming from far away on sleeper or generation
+ships long before the advent of hyperdrive technology.
+Regardless, they now dominate the Core and are
+spread throughout the galaxy, claiming many worlds
+as their homes.<br/>
+Language: Basic was originated by humans, and
+with their ubiquity came the widespread use of it as
+a connecting language for the entire galaxy. Numerous
+human societies have variants and dialects, and
+there are entire human civilizations that have distinct
+languages with no connection to Basic at all.<br/>
+Life in the Alliance: The inherent diversity of humans
+extends to their roles, careers, specializations, and
+chosen Duties with the Alliance. The only constant is
+the lack of consistency where humans are concerned;
+they are likely to pursue any path and have any set of
+goals driving them. The unifying factor is their desire to
+oppose the Empire, along with all of the other species
+who resist.
+  </Description>
+  <Sources>
+    <Source Page="48">Edge of the Empire Core Rulebook</Source>
+    <Source Page="57">Age of Rebellion Core Rulebook</Source>
+    <Source Page="55">Force and Destiny Core Rulebook</Source>
+  </Sources>
+  <StartingChars>
+    <Brawn>2</Brawn>
+    <Agility>2</Agility>
+    <Intellect>2</Intellect>
+    <Cunning>2</Cunning>
+    <Willpower>2</Willpower>
+    <Presence>2</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>10</WoundThreshold>
+    <StrainThreshold>10</StrainThreshold>
+    <Experience>110</Experience>
+  </StartingAttrs>
+  <OptionChoices>
+    <OptionChoice>
+      <Key>HUMANAB</Key>
+      <Name>Skills</Name>
+      <Options>
+        <Option>
+          <Key>HUMANABSK</Key>
+          <Name>Additional Non-Career Skills</Name>
+          <Description>Humans start the game with one rank in two different non-career
+          skills of their choice.</Description>
+          <StartingSkillTraining>
+            <SkillTraining>
+              <SkillCount>2</SkillCount>
+              <Requirement>
+                <NonCareer>true</NonCareer>
+              </Requirement>
+            </SkillTraining>
+          </StartingSkillTraining>
+        </Option>
+      </Options>
+    </OptionChoice>
+  </OptionChoices>
+</Species>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Species>
+  <Key>BOTH</Key>
+  <Name>Bothan</Name>
+  <Description>
+    [H4]Bothans[h4]
+    Masters of manipulation and collectors of data,
+Bothans are known to excel both as spies and as diplomats.
+Though it is perhaps unfair to universally characterize
+them as untrustworthy, it is generally unwise to
+forget that most Bothans are raised believing their own
+interests are genuinely paramount.<br/>
+Physiology: Averaging 1.5 to 1.6 meters tall, Bothans
+are bipedal humanoids that, from a human's perspective,
+display an interesting mix of feline, equine,
+and canine traits. With multidirectional and oversized
+ears, keen olfactory senses contained in their
+tapered snouts, and eyes capable of a much wider
+range of focus than the average humanoid, Bothans
+are extremely effective at picking up the vast diversity
+of information they instinctively crave. Thanks to
+their diminutive stature, they are capable of getting
+into places barred to human-sized (and larger) beings.
+Bothans also possess a unique manner of communication
+that involves rippling their fur in patterns decipherable
+by other Bothans. Though capable of wearing
+footgear, Bothans have hooves instead of feet, and
+both males and females sport a dangling beard at the
+end of their snout.<br/>
+Society: Though the planet of Bothawui is officially
+neutral in the conflict between the Empire and the
+Alliance (and, in fact, there are plenty of Bothans who
+play both sides for their personal gain), the upper echelons
+of the Alliance know the galaxy-spanning Bothan
+Spynet is working actively to further Alliance interests.
+Nonetheless, the leadership of Bothawui plays the
+game with both sides very carefully, and somehow it
+works; both Alliance and Imperial intelligence operations
+use the planet for clandestine purposes and keep
+it out of the line of fire in the conflict.<br/>
+Despite reputations for being as greedy and devious
+as Hutts, Bothans are, for the most part, ethical beings.
+Their ethics, however, derive from a code of behavior
+they call "The Way," which teaches that the pursuit of
+power and influence is right and necessary. For Bothans,
+money is only a means, not an end; ultimately, the
+capacity to influence matters to reflect their goals is the
+prize which must be sought. Bothans may well select a
+cause—a noble one, at that—to champion. They simply
+prefer manipulation and scheming to gain victory for the
+cause, rather than resorting to violence.<br/>
+Homeworld: Bothawui is a Mid-Rim world, temperate in
+climate and varied in terrain. Cosmopolitan and developed,
+Bothawui is rich in natural resources, agriculture,
+and industry. It is also the center of a Bothan-dominated
+sector of planets.<br/>
+Language: The spoken form of the Bothans' language
+is Bothese, and they refer to their written tongue as
+Botha. They have a third form of communication called
+Wrendui, which is based solely on the rippling of their
+fur. Though the base use of such ripples merely conveys
+emotions, they have developed many forms of
+Wrendui (which can be switched at will with the simplest
+of cues) to communicate in far more complex
+ways. Highly placed non-Bothans in the Bothan Spynet
+are taught a few of these forms, but only a Bothan may
+know all of them.<br/>
+Life in the Alliance: Not surprisingly, Bothans are
+both drawn to and encouraged to undertake roles
+capitalizing on their capabilities with knowledge, data,
+and manipulation. Diplomat and Spy are ideal career
+choices for many Bothans, with Duties like Intelligence,
+Counter-intelligence, and Political Support favoring
+their nature. Most Alliance leaders understand that
+Bothans are likely to take whatever they learn and
+share it through the Spynet; these Rebels accept this
+as a fair price for gaining access to that same resource.
+  </Description>
+  <Sources>
+    <Source Page="43">Edge of the Empire Core Rulebook</Source>
+    <Source Page="51">Age of Rebellion Core Rulebook</Source>
+  </Sources>
+  <StartingChars>
+    <Brawn>1</Brawn>
+    <Agility>2</Agility>
+    <Intellect>2</Intellect>
+    <Cunning>3</Cunning>
+    <Willpower>2</Willpower>
+    <Presence>2</Presence>
+  </StartingChars>
+  <StartingAttrs>
+    <WoundThreshold>10</WoundThreshold>
+    <StrainThreshold>11</StrainThreshold>
+    <Experience>100</Experience>
+  </StartingAttrs>
+  <SkillModifiers>
+    <SkillModifier>
+      <Key>SW</Key>
+      <RankStart>1</RankStart>
+      <RankLimit>2</RankLimit>
+    </SkillModifier>
+  </SkillModifiers>
+  <TalentModifiers>
+    <TalentModifier>
+      <Key>CONV</Key>
+      <RankAdd>1</RankAdd>
+    </TalentModifier>
+  </TalentModifiers>
+</Species>

@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Duties>
+  <Duty>
+    <Key>COMBATVICTORY</Key>
+    <Name>Combat Victory</Name>
+    <Description>
+      [H4]Combat Victory[h4]
+      The Player Character is driven to show that the Alliance can hold its own against Imperial forces in any
+troop vs. troop engagement. He wants to engage the Empire's military—their best, whenever possible—and provide more
+victories for the Alliance to tout to the galaxy as proof it can ultimately win the war. This means daring raids, excellent
+tactics, and acquiring the best firepower possible.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>COUNTERINTELLIGENCE</Key>
+    <Name>Counter Intelligence</Name>
+    <Description>
+      [H4]Counter Intelligence[h4]
+      The PC knows that the survival of the Alliance depends upon its ability to hide from the Empire
+and avoid complete destruction at the hands of its overwhelming military superiority. To this end. he wants to hunt
+down and eliminate enemy agents and threats, feed false information to Imperial intelligence networks, and cover the
+movements of all Alliance assets from observation and reporting
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>INTELLIGENCE</Key>
+    <Name>Intelligence</Name>
+    <Description>
+      [H4]Intelligence[h4]
+      The PC knows that every victory hinges on knowing as much about the Empire's military might and other
+assets as possible. He is driven to gather any and all potentially useful data, wishing to locate vital and vulnerable targets
+for Rebellion forces to strike at. He not only wants to know what the Imperial military factions are up to. but also the
+state of technological research, economic policies, and other aspects of Imperial strength.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>INTERNALSECURITY</Key>
+    <Name>Internal Security</Name>
+    <Description>
+      [H4]Internal Security[h4]
+      The most dangerous threat to the Alliance comes from within its own ranks. Any Rebel soldier,
+operative, or ally could be an insidious threat waiting to take an action at a critical moment to bring entire operations
+crashing down, costing lives and assets. Knowing that vigilance against these threats is the truest form of devotion to the
+cause of the Alliance, the PC watches for any and all signs of betrayal.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>PERSONNEL</Key>
+    <Name>Personnel</Name>
+    <Description>
+      [H4]Personnel[h4]
+      More than machines, credits, or information, the people of the Alliance are the most important and vital
+assets there are, and the Player Character knows this. He is devoted to seeing to their safety, well-being, and capacity
+for success. No one should ever be left behind: the most successful missions might not achieve every goal, but they are
+successful nonetheless when no one dies.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>POLITICALSUPPORT</Key>
+    <Name>Political Support</Name>
+    <Description>
+      [H4]Political Support[h4]
+      Every blaster, starhghter, and thermal detonator in the galaxy is useless without the political will to
+truly challenge and overthrow Palpatine and his New Order The Player Character understands this all too well and is
+determined to see to it that as many factions, systems, and sectors as possible come to the side—and the aid—of the
+Alliance against the Empire.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>RECRUITING</Key>
+    <Name>Recruiting</Name>
+    <Description>
+      [H4]Recruiting[h4]
+      Every engagement with the Empire is a war o f attrition, and that is a war the Rebellion simply cannot win.
+Nonetheless, more people must be found to serve, and they are needed in every capacity. Not only does the Alliance
+military need more soldiers and pilots, it needs more technicians, engineers, mechanics, scientists, doctors, slicers, and
+just about every other kind of worker. This Player Character understands the risks of recruitment, as well as the needs,
+and is constantly on the lookout for allies who are both talented and trustworthy.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>RESOURCEACQUISITION</Key>
+    <Name>Resource Acquisition</Name>
+    <Description>
+      [H4]Resource Acquisition[h4]
+      There are never enough supplies to fully support those fighting against the juggernaut that is
+the Empire, and this PC knows it very well. He is determined to seek out new sources of raw materials, food, clothing,
+weapons, armor, and equipment of all kinds. One spare crate of medpacs can save quite a few lives, and a handful
+of comlinks can mean the difference between success and failure on a mission. He will trade, beg. borrow, and steal
+anything for the cause.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>SABOTAGE</Key>
+    <Name>Sabotage</Name>
+    <Description>
+      [H4]Sabotage[h4]
+      The largest and most powerful military force in the history of the galaxy is also the most vulnerable to acts of
+destruction and asset denial. The character is focused on disrupting Imperial operations in any way possible, whether it's
+the manufacture of weapons, troop movements, supply shipments, banking systems, or any other key operation, in order
+to make the Empire act more slowly and less capably. Truly showy acts of destruction also work to erode a population's
+will to support the Empire, or so the PC often believes (though the Alliance expressly forbids actual acts of terrorism).
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>SPACESUPERIORITY</Key>
+    <Name>Space Superiority</Name>
+    <Description>
+      [H4]Space Superiority[h4]
+      As the Combat Victory-driven PC feels about troop conflicts, so this Player Character feels about
+ship-to-ship combat and naval engagements. To him, the war will ultimately be decided in the stars, and what the Alliance
+lacks in sheer numbers, it more than makes up for in the quality and tenacity of its pilots. Every single space battle is an
+opportunity to show the rest of the galaxy that the Alliance not only can win the war, but is destined to do so
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>TECHPROCUREMENT</Key>
+    <Name>Tech Procurement</Name>
+    <Description>
+      [H4]Tech Procurement[h4]
+      There is no more prolific or productive time for technological developments than during a war, and
+this one is no exception. This Player Character sees the true opportunity for Alliance victory in the hands of scientists,
+engineers, and technicians. Not only can they get the most performance from existing machines and resources, but
+they can design and develop new ships, weapons, medical techniques, and equipment that can provide the vital edge
+necessary to survive against the Empire's might. The way this PC sees it, stealing the best developments of the Empire is
+a crucial way to even the odds.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>SUPPORT</Key>
+    <Name>Support</Name>
+    <Description>
+      [H4]Support[h4]
+      Individually, the lone agents of the Alliance don't stand a chance against the combined might of the Galactic
+Empire. Only by working together can they hope to achieve a victory in this civil war. This PC is devoted to helping fellow
+Rebels fulfill their Duties by providing whatever assistance they need. Although he might not get the same amount of
+reward or recognition as the people he is helping, the PC has many more opportunities than his fellows to fulfill his Duty
+to the Rebellion.
+    </Description>
+    <Source Page="47">Age of Rebellion Core Rulebook</Source>
+  </Duty>
+  <Duty>
+    <Key>AIRSUP</Key>
+    <Name>Air Superiority</Name>
+    <Description>
+      [H4]Air Superiority[h4]
+      Please see page 19 of the Stay on Target Sourcebook for details.
+    </Description>
+    <Source Page="19">Stay on Target</Source>
+  </Duty>
+  <Duty>
+    <Key>GROUNDSUP</Key>
+    <Name>Ground Superiority</Name>
+    <Description>
+      [H4]Ground Superiority[h4]
+      Please see page 19 of the Stay on Target Sourcebook for details.
+    </Description>
+    <Source Page="19">Stay on Target</Source>
+  </Duty>
+  <Duty>
+    <Key>PLACHUNT</Key>
+    <Name>Placard Hunter</Name>
+    <Description>
+      [H4]Placard Hunter[h4]
+      Please see page 19 of the Stay on Target Sourcebook, or page 17 of the Forged in Battle Sourcebook, for details.
+    </Description>
+    <Sources>
+      <Source Page="19">Stay on Target</Source>
+      <Source Page="17">Forged in Battle</Source>
+    </Sources>
+  </Duty>
+  <Duty>
+    <Key>TECHSUPERIORITY</Key>
+    <Name>Tech Superiority</Name>
+    <Description>
+      [H4]Tech Superiority[h4]
+      Please see page 19 of the Stay on Target Sourcebook for details.
+    </Description>
+    <Source Page="19">Stay on Target</Source>
+  </Duty>
+  <Duty>
+    <Key>COMMFAC</Key>
+    <Name>Communication Facilitation</Name>
+    <Description>
+      [H4]Communication Facilitation[h4]
+      Please see page 17 of the Desperate Allies Sourcebook for details.
+    </Description>
+    <Source Page="17">Desperate Allies</Source>
+  </Duty>
+  <Duty>
+    <Key>OPPLAN</Key>
+    <Name>Operation Planning</Name>
+    <Description>
+      [H4]Operation Planning[h4]
+      Please see page 17 of the Desperate Allies Sourcebook for details.
+    </Description>
+    <Source Page="17">Desperate Allies</Source>
+  </Duty>
+  <Duty>
+    <Key>REBELBASE</Key>
+    <Name>Rebel Base</Name>
+    <Description>
+      [H4]Rebel Base[h4]
+      Please see page 87 of the Desperate Allies Sourcebook for details.
+    </Description>
+    <Source Page="87">Desperate Allies</Source>
+  </Duty>
+  <Duty>
+    <Key>CAMAR</Key>
+    <Name>Camaraderie</Name>
+    <Description>
+      [H4]Camaraderie[h4]
+      See page 17 of the Lead by Example Sourcebook for details.
+    </Description>
+    <Source Page="17">Lead by Example</Source>
+  </Duty>
+  <Duty>
+    <Key>ENEMYDEMOR</Key>
+    <Name>Enemy Demoralization</Name>
+    <Description>
+      [H4]Enemy Demoralization[h4]
+      See page 17 of the Lead by Example Sourcebook for details.
+    </Description>
+    <Source Page="17">Lead by Example</Source>
+  </Duty>
+  <Duty>
+    <Key>LOSSPREV</Key>
+    <Name>Loss Prevention</Name>
+    <Description>
+      [H4]Loss Prevention[h4]
+      See page 17 of the Lead by Example Sourcebook for details.
+    </Description>
+    <Source Page="17">Lead by Example</Source>
+  </Duty>
+  <Duty>
+    <Key>CLEARSKIES</Key>
+    <Name>Clear Skies</Name>
+    <Description>
+      [H4]Clear Skies[h4]
+      See page 17 of the Forged in Battle Sourcebook for details.
+    </Description>
+    <Source Page="17">Forged in Battle</Source>
+  </Duty>
+  <Duty>
+    <Key>MORALE</Key>
+    <Name>Morale</Name>
+    <Description>
+      [H4]Morale[h4]
+      See page 17 of the Forged in Battle Sourcebook for details.
+    </Description>
+    <Source Page="17">Forged in Battle</Source>
+  </Duty>
+  <Duty>
+    <Key>PSYCHWAR</Key>
+    <Name>Psychological Warfare</Name>
+    <Description>
+      [H4]Psychological Warfare[h4]
+      See page 17 of the Forged in Battle Sourcebook for details.
+    </Description>
+    <Source Page="17">Forged in Battle</Source>
+  </Duty>
+
+
+</Duties>

@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ForceAbilities>
+  <ForceAbility>
+    <Key>SENSEBASIC</Key>
+    <Name>Sense Basic Power</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSECONTROL1</Key>
+    <Name>Control: Upgrade Difficulty</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSECONTROL2</Key>
+    <Name>Control: Sense Thoughts</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSEDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSERANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSEMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Sense</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SENSECONTROL3</Key>
+    <Name>Control: Upgrade Ability</Name>
+    <Description>Please see page 280 of the Edge of the Empire Core Rulebook, or page 304 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="280">Edge of the Empire Core Rulebook</Source>
+      <Source Page="304">Force and Destiny Core Rulebook</Source>
+    </Sources>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>INFLUENCEBASIC</Key>
+    <Name>Influence Basic Power</Name>
+    <Description>Please see page 282 of the Edge of the Empire Core Rulebook, or page 294 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="282">Edge of the Empire Core Rulebook</Source>
+      <Source Page="294">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>INFLUENCERANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 282 of the Edge of the Empire Core Rulebook, or page 294 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="282">Edge of the Empire Core Rulebook</Source>
+      <Source Page="294">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>INFLUENCEMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 282 of the Edge of the Empire Core Rulebook, or page 294 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="282">Edge of the Empire Core Rulebook</Source>
+      <Source Page="294">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>INFLUENCECONTROL1</Key>
+    <Name>Control: Emotion/Belief</Name>
+    <Description>Please see page 282 of the Edge of the Empire Core Rulebook, or page 294 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="282">Edge of the Empire Core Rulebook</Source>
+      <Source Page="294">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>INFLUENCECONTROL2</Key>
+    <Name>Control: Skills</Name>
+    <Description>Please see page 282 of the Edge of the Empire Core Rulebook, or page 294 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="282">Edge of the Empire Core Rulebook</Source>
+      <Source Page="294">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Influence</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>COERC</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>CHARM</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>DECEP</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>LEAD</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>NEG</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>INFLUENCESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 282 of the Edge of the Empire Core Rulebook, or page 294 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="282">Edge of the Empire Core Rulebook</Source>
+      <Source Page="294">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>INFLUENCEDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 282 of the Edge of the Empire Core Rulebook, or page 294 of the Force and Destiny Core Rulebook, for details.</Description>
+    <Sources>
+      <Source Page="282">Edge of the Empire Core Rulebook</Source>
+      <Source Page="294">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Influence</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MOVEBASIC</Key>
+    <Name>Move Basic Power</Name>
+    <Description>
+      The Force user can move small objects via the power of the Force.<br/>
+      The user may spend [LI] to move one object of silhouette 0 that is within short range up to his maximum range. The default maximum range is short range.
+    </Description>
+    <Sources>
+      <Source Page="284">Edge of the Empire Core Rulebook</Source>
+      <Source Page="296">Age of Rebellion Core Rulebook</Source>
+      <Source Page="298">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Move</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MOVEMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>
+      Spend [LI] to increase targets
+affected equal to Magnitude
+upgrades purchased.
+    </Description>
+    <Sources>
+      <Source Page="284">Edge of the Empire Core Rulebook</Source>
+      <Source Page="296">Age of Rebellion Core Rulebook</Source>
+      <Source Page="298">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Move</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MOVESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>
+      Spend [LI] to increase silhouette
+able to be targeted
+equal to Strength upgrades
+purchased.
+    </Description>
+    <Sources>
+      <Source Page="284">Edge of the Empire Core Rulebook</Source>
+      <Source Page="296">Age of Rebellion Core Rulebook</Source>
+      <Source Page="298">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Move</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MOVERANGE</Key>
+    <Name>Range</Name>
+    <Description>
+      Spend [LI] to increase power's
+range by a number of range
+bands equal to Range up-
+. grades purchased.
+    </Description>
+    <Sources>
+      <Source Page="284">Edge of the Empire Core Rulebook</Source>
+      <Source Page="296">Age of Rebellion Core Rulebook</Source>
+      <Source Page="298">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Move</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MOVECONTROL1</Key>
+    <Name>Control: Hurl</Name>
+    <Description>
+      The Force user can hurl objects to damage targets, by making a Discipline
+check combined with a Move power check, dealing damage equal
+to 10 times silhouette.
+    </Description>
+    <Sources>
+      <Source Page="284">Edge of the Empire Core Rulebook</Source>
+      <Source Page="296">Age of Rebellion Core Rulebook</Source>
+      <Source Page="298">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Move</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MOVECONTROL2</Key>
+    <Name>Control: Pull</Name>
+    <Description>The Force user can pull objects
+out of secure mountings
+or out of an opponent's
+grasp.</Description>
+    <Sources>
+      <Source Page="284">Edge of the Empire Core Rulebook</Source>
+      <Source Page="296">Age of Rebellion Core Rulebook</Source>
+      <Source Page="298">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Move</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MOVECONTROL3</Key>
+    <Name>Control: Manipulate</Name>
+    <Description>The character can perform fine manipulation of items, allowing him
+    to do whatever he could normally do with his hands via this power at
+    this power's range.</Description>
+    <Sources>
+      <Source Page="284">Edge of the Empire Core Rulebook</Source>
+      <Source Page="296">Age of Rebellion Core Rulebook</Source>
+      <Source Page="298">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Move</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEEBASIC</Key>
+    <Name>Foresee Basic Power</Name>
+    <Description>The Force user can feel the Force flowing around everything, seeing what is and what will be.
+The user may spend [LI] to gain vague hints of events to come, up to a day into his future.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEECONTROL1</Key>
+    <Name>Control: Initiative (Success)</Name>
+    <Description>When making a skill check to determine initiative, the Force user may roll a Foresee power check as part of the pool.
+He may spend [LI] to gain [SU] per point on the check.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEECONTROL2</Key>
+    <Name>Control: Defense</Name>
+    <Description>Affected targets increase
+their ranged and melee defense
+by 2 for the first round
+of combat.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEECONTROL3</Key>
+    <Name>Control: Initiative (Maneuver)</Name>
+    <Description>When performing a Foresee power check as part of an initiative check, the Force user may spend [LI] to allow all affected
+targets to take one free maneuver before the first round of combat begins.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEEDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Spend [LI] to increase the
+days into the future the user
+can see equal to Duration
+upgrades purchased.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEERANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [LI] to increase power's
+range by a number of range
+bands equal to range upgrades
+purchased.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEEMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Spend [LI] to increase targets
+affected equal to Magnitude
+upgrades purchased.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FORSEESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Spend [LI] to pick out specific
+details equal to Strength upgrades
+purchased.</Description>
+    <Sources>
+      <Source Page="300">Age of Rebellion Core Rulebook</Source>
+      <Source Page="290">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Forsee</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCEBASIC</Key>
+    <Name>Enhance Basic Power</Name>
+    <Description>When making an Athletics check, the Force user may roll an Enhance power check as part of the pool.
+The user may spend [LI] to gain [SU] or [AD] (user's choice) on the check.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>ATHL</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCERANGE</Key>
+    <Name>Range</Name>
+    <Description>Spend [LI] to increase power's
+range by a number of range
+bands equal to Range upgrades
+purchased.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT1</Key>
+    <Name>Control: Coordination</Name>
+    <Description>Enhance can be used with
+the Coordination skill.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>COORD</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT2</Key>
+    <Name>Control: Resilience</Name>
+    <Description>Enhance can be used with
+the Resilience skill.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>RESIL</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT3</Key>
+    <Name>Control: Force Leap (Horizontal)</Name>
+    <Description>Take a Force Leap action: make a Enhance power check. The user may
+spend [LI] to jump horizontally to any location in short range.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT4</Key>
+    <Name>Control: Piloting - Planetary</Name>
+    <Description>Enhance can be used with
+the Piloting (Planetary) skill.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>PILOTPL</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT5</Key>
+    <Name>Control: Brawl</Name>
+    <Description>Enhance can be used with
+the Brawl skill.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>BRAWL</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT6</Key>
+    <Name>Control: Force Leap (Vertical)</Name>
+    <Description>When performing a Force Leap, the user can jump vertically in addition to
+jumping horizontally.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT7</Key>
+    <Name>Control: Piloting - Space</Name>
+    <Description>Enhance can be used wit
+the Piloting (Space) skill.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>PILOTSP</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT8</Key>
+    <Name>Control: Brawn</Name>
+    <Description>Ongoing effect: Commit [LI] The user increases his Brawn characteristic
+by 1 (to a maximum of 6).</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT9</Key>
+    <Name>Control: Agility</Name>
+    <Description>Ongoing effect: Commit [LI]. The user increases his Agility characteristic by 1 (to a maximum of 6).</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>ENHANCECONT0</Key>
+    <Name>Control: Force Leap (Maneuver)</Name>
+    <Description>The user can perform a Force Leap as a maneuver instead of an action.</Description>
+    <Sources>
+      <Source Page="298">Age of Rebellion Core Rulebook</Source>
+      <Source Page="288">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <Power>Enhance</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDBASIC</Key>
+    <Name>Battle Meditation Basic Power</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power />
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power>Battle Meditation</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power>Battle Meditation</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDCONTROL1</Key>
+    <Name>Control: Orders</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power>Battle Meditation</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDCONTROL2</Key>
+    <Name>Control: Planetary Scale</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power>Battle Meditation</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power>Battle Meditation</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power>Battle Meditation</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BATMEDMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 284 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="284">Force and Destiny Core Rulebook</Source>
+    <Power>Battle Meditation</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDBASIC</Key>
+    <Name>Bind Basic Power</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Power />
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Power>Bind</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Power>Bind</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Power>Bind</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDCONTROL1</Key>
+    <Name>Control: Strain</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Power>Bind</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Power>Bind</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDCONTROL2</Key>
+    <Name>Control: Move</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Power>Bind</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>BINDMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 286 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+    <Source Page="286">Force and Destiny Core Rulebook</Source>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMBASIC</Key>
+    <Name>Heal/Harm Basic Power</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMCONTROL1</Key>
+    <Name>Control: Medicine</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMCONTROL2</Key>
+    <Name>Control: Strain</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMCONTROL3</Key>
+    <Name>Control: Status</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMCONTROL4</Key>
+    <Name>Control: Critical</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>HEALHARMMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 292 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="292">Force and Destiny Core Rulebook</Source>
+    <Power>Heal/Harm</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRBASIC</Key>
+    <Name>Misdirect Basic Power</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRCONTROL1</Key>
+    <Name>Control: Appearance</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRCONTROL2</Key>
+    <Name>Control: Illusion</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRCONTROL3</Key>
+    <Name>Control: Combat</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MISDIRMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 296 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="296">Force and Destiny Core Rulebook</Source>
+    <Power>Misdirect</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLBASICPOWER</Key>
+    <Name>Protect/Unleash Basic Power</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLCONTROL1</Key>
+    <Name>Control: Defense/Strain</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLCONTROL2</Key>
+    <Name>Control: All Attacks/Ensnare</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLCONTROL3</Key>
+    <Name>Control: Incidental/Maneuver</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>PROTUNLMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 300 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="300">Force and Destiny Core Rulebook</Source>
+    <Power>Protect/Unleash</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKBASICPOWER</Key>
+    <Name>Seek Basic Power</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKCONTROL1</Key>
+    <Name>Control: Skills</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKCONTROL2</Key>
+    <Name>Control: Target</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKCONTROL3</Key>
+    <Name>Control: Pierce</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SEEKMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 302 of the Force and Destiny Core Rulebook for details.</Description>
+    <Source Page="302">Force and Destiny Core Rulebook</Source>
+    <Power>Seek</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORBASIC</Key>
+    <Name>Warde's Foresight Basic Power</Name>
+    <Description>
+      Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.
+    </Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORMAGNITUDE</Key>
+    <Name>Magnitude</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORCONTROL1</Key>
+    <Name>Control: Successes</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORCONTROL2</Key>
+    <Name>Control: Maneuver</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORCONTROL3</Key>
+    <Name>Control:  Initiative</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper Adventure Module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>WARFORCONTROL4</Key>
+    <Name>Control: Ally Initiative</Name>
+    <Description>Please see page 10 of the Chronicles of the Gatekeeper adventure module for details.</Description>
+    <Source Page="10">Chronicles of the Gatekeeper</Source>
+    <Sources />
+    <Power>Warde's Foresight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSBASIC</Key>
+    <Name>Suppress Basic Power</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSSTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSCONTROL1</Key>
+    <Name>Control: Commit</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSCONTROL2</Key>
+    <Name>Control: Destiny</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSCONTROL3</Key>
+    <Name>Control: Strain</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>SUPPRESSRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 38 of the Keeping the Peace Sourcebook for details.</Description>
+    <Source Page="38">Keeping the Peace</Source>
+    <Power>Suppress</Power>
+  </ForceAbility>
+
+  <ForceAbility>
+    <Key>FARSIGHTBASIC</Key>
+    <Name>Farsight Basic Power</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL1</Key>
+    <Name>Control: Microscopic Details</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL2</Key>
+    <Name>Control: Transparent</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL6</Key>
+    <Name>Control: Fine Details</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTDURATION</Key>
+    <Name>Duration</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTRANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL3</Key>
+    <Name>Control: Vigilance</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>PERC</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+      <DieModifier>
+        <SkillKey>VIGIL</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL4</Key>
+    <Name>Control: Perception</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTCONTROL5</Key>
+    <Name>Control: Panoramic Vision</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>FARSIGHTMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 36 of the Savage Spirits Sourcebook for details.</Description>
+    <Source Page="36">Savage Spirits</Source>
+    <Power>Farsight</Power>
+  </ForceAbility>
+
+    <ForceAbility>
+    <Key>MANIPULATEBASIC</Key>
+    <Name>Manipulate Basic Power</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL1</Key>
+    <Name>Control: Item Damage</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL2</Key>
+    <Name>Control: Increase System Strain</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL3</Key>
+    <Name>Control: Mechanics</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+    <DieModifiers>
+      <DieModifier>
+        <SkillKey>MECH</SkillKey>
+        <ForceCount>1</ForceCount>
+      </DieModifier>
+    </DieModifiers>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL4</Key>
+    <Name>Control: Heal Droid</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL5</Key>
+    <Name>Control: Inflict Strain</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL6</Key>
+    <Name>Control: Increase Hull Trauma</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATECONTROL7</Key>
+    <Name>Control: Upgrade Computers and Mechanics</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATESTRENGTH</Key>
+    <Name>Strength</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATERANGE</Key>
+    <Name>Range</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+  <ForceAbility>
+    <Key>MANIPULATEMASTERY</Key>
+    <Name>Mastery</Name>
+    <Description>Please see page 37 of the Endless Vigil Sourcebook for details.</Description>
+    <Source Page="37">Endless Vigil</Source>
+    <Power>Manipulate</Power>
+  </ForceAbility>
+
+
+</ForceAbilities>

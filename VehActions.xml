@@ -1,0 +1,760 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VehActions>
+  <VehAction>
+    <Key>ACCDEC</Key>
+    <Name>Accelerate/Decelerate</Name>
+    <Description>
+      The pilot may increase or decrease the ship or vehicle's
+current speed by one, to a minimum of 0 or a maximum
+of the ship's maximum speed rating.
+    </Description>
+    <Sources>
+      <Source Page="232">Edge of the Empire Core Rulebook</Source>
+      <Source Page="245">Age of Rebellion Core Rulebook</Source>
+      <Source Page="238">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaManeuver</ActionTypeValue>
+    <PilotOnly>true</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <RequiresSpeed>true</RequiresSpeed>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>FLYDRIVE</Key>
+    <Name>Fly/Drive</Name>
+    <Description>
+      This starship maneuver reflects the simple act of moving
+the ship or vehicle closer or farther away from something
+at its current speed. The number of starship maneuvers
+required for a ship or vehicle to move through a given
+number of range bands is dependent on its speed. It is
+important to remember that range is based on the moving
+ship's perspective, and is not a measure of actual
+physical distance. Moving between one range band
+and the next always takes two maneuvers regardless of
+speed, with the following exceptions detailed below:
+<ol>
+  <li>
+Speed 0: The ship or vehicle is not moving and cannot
+use this starship maneuver until it accelerates.
+  </li>
+    <li>
+Speed 1: One starship maneuver to move within
+close range of a target or object, or two starship
+maneuvers to move from close to short range or
+from short range to close range.
+    </li>
+      <li>
+Speed 2-4: One starship maneuver to move
+within close range of a target or object, or to move
+from close to short range or from short to close
+range. Two starship maneuvers to move from close
+to medium or medium to close range.
+      </li>
+        <li>
+Speed 5-6: One starship maneuver to move
+within close range of a target or object or to move
+from close to medium range or from medium to
+close range. Two starship maneuvers to move from
+close to long or long to close range.
+        </li>
+</ol>
+    </Description>
+    <Sources>
+      <Source Page="232">Edge of the Empire Core Rulebook</Source>
+      <Source Page="245">Age of Rebellion Core Rulebook</Source>
+      <Source Page="238">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaManeuver</ActionTypeValue>
+    <PilotOnly>true</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <RequiresSpeed>true</RequiresSpeed>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>EVASMAN</Key>
+    <Name>Evasive Maneuvers</Name>
+    <Description>
+      Evasive Maneuvers reflects a pilot's efforts to avoid
+incoming fire, collision, or other calamity. Executing
+Evasive Maneuvers upgrades the difficulty of the dice
+pool once for all attacks made against the ship until
+the end of the pilot's next turn. While this makes the
+ship executing the starship maneuver harder to hit, it
+also makes it harder for the ship executing the starship
+maneuver to hit anything else. Executing Evasive
+Maneuvers likewise upgrades the difficulty of the dice
+pool once for all attacks made by the ship until the end
+of the pilot's next turn. Evasive Maneuvers can only
+be undertaken by ships or vehicles of silhouette 4 or
+lower. Anything larger is typically too slow or awkward
+to perform Evasive Maneuvers.
+    </Description>
+    <Sources>
+      <Source Page="232">Edge of the Empire Core Rulebook</Source>
+      <Source Page="245">Age of Rebellion Core Rulebook</Source>
+      <Source Page="238">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaManeuver</ActionTypeValue>
+    <PilotOnly>true</PilotOnly>
+    <SilhLow>1</SilhLow>
+    <SilhHigh>4</SilhHigh>
+    <SpeedLow>3</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Active>true</Active>
+    <RequiresSpeed>true</RequiresSpeed>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>STAY</Key>
+    <Name>Stay on Target</Name>
+    <Description>
+      This reflects a pilot's concentration and his ability to shut
+out combat-related stresses and distractions to make
+sure a target is hit or an adversary destroyed. Until the
+end of the pilot's next turn, all combat checks from the
+vehicle or vessel executing this maneuver upgrade the
+ability of the dice pool once. Unfortunately, while he is
+concentrating so hard on his target, the pilot blocks out
+all other threats and is an easier target for opponents.
+Any combat checks made targeting a ship executing this
+starship maneuver also upgrade their ability once until
+the end of the pilot's next round. This starship maneuver
+is restricted to small vessels like starfighters and patrol
+boats; only ships or vehicles of silhouette 4 or lower can
+Stay on Target.
+    </Description>
+    <Sources>
+      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="245">Age of Rebellion Core Rulebook</Source>
+      <Source Page="239">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaManeuver</ActionTypeValue>
+    <PilotOnly>true</PilotOnly>
+    <SilhLow>1</SilhLow>
+    <SilhHigh>4</SilhHigh>
+    <SpeedLow>3</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Active>true</Active>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>PUNCH</Key>
+    <Name>Punch It</Name>
+    <Description>
+      This maneuver allows a ship or vehicle to go immediately
+to its maximum speed rating from any other speed, by
+throwing the throttles to maximum and overloading the
+ship or vehicle's drives. While expeditious, it also puts
+undue strain on a ship or vehicle. When executing this
+starship maneuver, the ship or vehicle suffers one point
+of system strain for every point of speed between the
+ship's current speed and its maximum speed.
+For example, the pilot of a YT-1300 light freighter is
+hiding from an Imperial Navy patrol at speed 0 in the
+lee of a large asteroid. Suddenly, he is set upon by a
+pair of TIE fighters, decides that discretion is the better
+part of valor, and Punches It. He immediately throws
+his throttles to their maximum setting, and the ship
+jumps to life. While he escapes unharmed and is able
+to jump to hyperspace, the sudden acceleration causes
+deals three points of strain to his ship.
+This starship maneuver is restricted to ships of silhouette
+4 or lower, as larger vessels have too much
+mass to accelerate so quickly
+    </Description>
+    <Sources>
+      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="246">Age of Rebellion Core Rulebook</Source>
+      <Source Page="239">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaManeuver</ActionTypeValue>
+    <PilotOnly>true</PilotOnly>
+    <SilhLow>1</SilhLow>
+    <SilhHigh>4</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <RequiresSpeed>true</RequiresSpeed>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>ANGLEDEF</Key>
+    <Name>Angle Deflector Shields</Name>
+    <Description>
+      Using this maneuver, a crewmember with access to the
+shield controls can reassign up to one point of defense
+from one defense zone to another. For example, a
+player could shore up a vessel's forward defense zone
+with a point from its aft defense zone. This maneuver
+only works if the ship or vehicle has defense that can
+be reassigned, as with deflector shields.<br/>
+In combat involving starships or vehicles, there are
+some additional actions characters may perform that
+specifically apply to the ship or vehicle they are operating.
+Some of these actions are labeled as Pilot Only
+actions. A starship or vehicle may benefit from only
+one Pilot Only action per round, no matter how many
+crewmembers are aboard her. (Pilot Only actions are
+actions that affect the movement of the ship itself, and
+ships may only move so fast and so far.)<br/>
+Remember, any of the actions listed starting on page
+216 of combat can also be performed in combats involving
+ships or vehicles, within the bounds of common sense.
+    </Description>
+    <Sources>
+      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="246">Age of Rebellion Core Rulebook</Source>
+      <Source Page="239">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaManeuver</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>MECHINCPOW</Key>
+    <Name>Increase Power</Name>
+    <Description>Please see page 72 of the Stay on Target Sourcebook for details</Description>
+    <Source Page="72">Stay on Target</Source>
+    <ActionTypeValue>vaManeuver</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>3</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Active>true</Active>
+    <RequiresSpeed>true</RequiresSpeed>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>BLANKBARR</Key>
+    <Name>Blanket Barrage</Name>
+    <Description>
+      The gunner uses the ship's weapons to raise a curtain
+of fire around the ship, protecting it from starfighters.
+Any smaller vessel attempting an attack run will have
+to brave a hurricane of heavy weaponry.<br/>
+When performing the Blanket Barrage action, the
+character makes an Average [DI] [DI] Gunnery check
+and selects all weapons of a single type (heavy turbolasers,
+medium ion cannons, etc.) within one or more
+of his ship's firing arcs. Those weapons count as firing
+that round. Until the end of the character's next turn,
+all vehicles with silhouette 4 or smaller upgrade the
+difficulty of any combat checks made against the ship
+once, plus one additional time per [AD] [AD] scored on the
+Blanket Barrage Gunnery check. If their combat check
+generates [TH] [TH] , they suffer one automatic hit, which
+deals half the base damage (rounding up) of the type
+of weapon used in the Blanket Barrage action. If their
+combat check generates [DE] , they suffer one automatic
+hit dealing the base damage of the type of weapon used
+in the Blanket Barrage action.
+At the GM's discretion, the Blanket Barrage might not
+cover all arcs of the ship (if the ship has no aft weaponry,
+for example, it may leave an opening aft), and some
+ships might be able to approach from this direction and
+avoid suffering the penalties from Blanket Barrage.
+    </Description>
+    <Source Page="246">Age of Rebellion Core Rulebook</Source>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>5</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>3</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>GUNN</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>CONCBARR</Key>
+    <Name>Concentrated Barrage</Name>
+    <Description>
+      The gunner directs the vehicle's fire to focus on a precise
+point on the opponent's hull. Focusing fire in this way has
+the potential to deal significant damage.<br/>
+When performing the Concentrated Barrage action, the
+character fires all weapons of a single type (heavy turbolasers,
+medium ion cannons, etc.) within a single firing
+arc. This action requires at least two weapons to use, and
+it cannot be used if there are not two weapons of a single
+type in the chosen firing arc. Although he is firing multiple
+weapons, he makes a single combat check, as per
+the rules for the Performing a Combat Check with Vehicle
+Weapons action. If the attack succeeds, the character
+may spend [AD] once to add damage equal to the number
+of weapons involved in the attack to one hit of the attack.<br/>
+The Concentrated Barrage action can only be used
+to target ships with a silhouette 5 or higher.
+    </Description>
+    <Source Page="246">Age of Rebellion Core Rulebook</Source>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>5</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>3</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>GUNN</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>OVERBARR</Key>
+    <Name>Overwhelming Barrage</Name>
+    <Description>
+The gunner disperses the vehicle's fire to overwhelm
+the target with a multitude of shots, hitting it and every
+adjoining vehicle. This tactic is often used to overwhelm
+formations of enemy ships and vehicles.<br/>
+When performing the Overwhelming Barrage action,
+the character fires all weapons of a single type (heavy
+turbolasers, medium ion cannons, etc.) within a single firing
+arc. This action requires at least two weapons to use,
+and cannot be used if there are not two weapons of a
+single type in the chosen firing arc. Although he is firing
+multiple weapons, he makes a single combat check, as
+per the rules for the Performing a Combat Check with
+Vehicle Weapons action. If the attack succeeds, the
+character may spend O to deal one additional hit to one
+vehicle that is at short range from the original target, plus
+one additional vehicle for every 10 weapons involved in
+the attack. Vehicles hit in this way must have a silhouette
+equal to or higher than that of the original target. For
+example, firing 10 weapons allows the attacker to hit two
+additional targets with [AD] firing 20 weapons allows him
+to hit three additional targets, and so on. The extra hit
+can be triggered multiple times, but cannot target any
+ships that have already been hit during this action.
+These hits deal the weapon's base damage, + 1 damage
+per [SU] on the check.
+    </Description>
+    <Source Page="248">Age of Rebellion Core Rulebook</Source>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>5</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>3</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>GUNN</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>DAMCONT</Key>
+    <Name>Damage Control</Name>
+    <Description>
+      As a ship's hull shakes and rattles beneath the abuse
+of an enemy's laser cannons, sparks fly and systems
+begin to fail. The Damage Control action is an attempt
+to mitigate such stress, whether it's caused by combat
+or accident. Using this action, any Player Character
+who makes a successful Mechanics check recovers one
+point of system strain. The difficulty of the Mechanics
+check is determined by the strain the ship is currently
+suffering. Damage Control can be attempted as many
+times as needed to reduce a ship's system strain to
+zero (with the caveat that a single character can still
+only perform one action per turn, of course).<br/>
+Likewise, a skilled mechanic can even repair some of
+the damage dealt to a vehicle during an ongoing fight,
+although this is much trickier. In general, PCs can only
+attempt one Damage Control check to reduce hull
+trauma (by one point per success) per encounter—there
+are only so many repairs that can be accomplished without
+the facilities of a proper shipyard. In addition, the
+GM is the final arbiter as to whether a Player Character
+can attempt repairs of hull trauma at all (a snubfighter
+pilot could not climb out of his cockpit during a dogfight
+to patch his wing, nor could a speeder biker reattach one
+of his control surfaces while driving through a forest).<br/>
+Characters can also use this action to repair Critical
+Hits the ship is suffering from. The difficulty of repairing
+a Critical Hit is listed on Table 7-9: Critical Hit
+Result. Checks to repair Critical Hits can be attempted
+multiple times, until the Critical Hit is repaired.<br/>
+    </Description>
+    <Sources>
+      <Source Page="233">Edge of the Empire Core Rulebook</Source>
+      <Source Page="247">Age of Rebellion Core Rulebook</Source>
+      <Source Page="240">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Skills>
+      <Key>MECH</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>GAINADV</Key>
+    <Name>Gain the Advantage</Name>
+    <Description>
+      This action reflects the constant, frantic give-and-take
+of a dogfight between small craft like starfighters and
+patrol boats or high-speed vehicles such as airspeeders.
+It allows a pilot to gain the upper hand on a single opponent
+so that he positions himself for a better attack during
+the following round. To execute this starship action,
+the pilot makes a Piloting check, the difficulty of which
+is determined by the relative speeds of the ships or vehicles
+involved in the attack. These difficulties are outlined
+in Table 7-3: Speed Advantage Difficulty If the check
+succeeds, the pilot ignores all penalties imposed by his
+own and his opponent's use of the Evasive Maneuvers
+starship maneuver until the end of the following round.
+In addition, the pilot also chooses which defense zone
+he hits with his attack. If he fails his check, he fails to
+gain the advantage from the attempt and still suffers the
+effects of any Evasive Maneuvers.<br/>
+Once the advantage has been gained, on the following
+turn the opponent may attempt to cancel out the
+advantage by using Gain the Advantage as well. This
+works as described earlier, but his check is one step
+more difficult for each time he or his opponent has successfully
+Gained the Advantage against the other.
+    </Description>
+    <Sources>
+      <Source Page="234">Edge of the Empire Core Rulebook</Source>
+      <Source Page="247">Age of Rebellion Core Rulebook</Source>
+      <Source Page="240">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>true</PilotOnly>
+    <SilhLow>1</SilhLow>
+    <SilhHigh>4</SilhHigh>
+    <SpeedLow>4</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Active>true</Active>
+    <RequiresSpeed>true</RequiresSpeed>
+    <Skills>
+      <Key>PILOTPL</Key>
+      <Key>PILOTSP</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>COMBAT</Key>
+    <Name>Combat Check with Weapon</Name>
+    <Description>
+      his is similar to the Perform a Combat Check action
+on page 216, with some minor differences in implementation
+due to the differences between vehicles
+and individuals. For this reason, the steps to perform a
+combat check are repeated, with the differences written
+in each step, instead of the differences being listed
+without context.<br/>
+Please see page 234 of the Edge of the Empire Core Rulebook, or page 249 of the Age of Rebellion Core Rulebook, for details
+    </Description>
+    <Sources>
+      <Source Page="234">Edge of the Empire Core Rulebook</Source>
+      <Source Page="249">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Skills>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>PLOTCOURSE</Key>
+    <Name>Plot Course</Name>
+    <Description>
+      When aboard a vehicle in combat, those who are not
+piloting or firing weapons may still want to contribute to
+the encounter. Although the number of options open to
+them is limited only by a player's creativity, Table 7-4:
+Additional Starship and Vehicle Actions has a list of
+actions passengers can attempt during encounters. The
+table lists the actions by name, the skill required, the
+check's attendant difficulty, and the results of a success
+(GMs should modify the difficulty of the check if they see
+fit, and can also keep players from using certain skills
+that may not make sense in a certain situation). These
+actions are all covered by the Perform a Skill Check
+action, and are by no means an exhaustive list. However,
+they do serve to provide a range of ideas.
+    </Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>ASTRO</Key>
+      <Key>PERC</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>COPILOT</Key>
+    <Name>Copilot</Name>
+    <Description>The crewmember serves as the vehicle's copilot, managing systems and auxiliary equipment
+to allow the pilot to focus on flying or driving. On a successful check, each success
+downgrades the difficulty of the pilot's next piloting check by 1</Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <RequiresSpeed>true</RequiresSpeed>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>PILOTPL</Key>
+      <Key>PILOTSP</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>JAM</Key>
+    <Name>Jamming</Name>
+    <Description>The crewmember uses the vehicle's systems to jam the communications of enemy vehicles.
+On a successful check, the enemy must make an Average [DI] [DI] Computers check to use
+its communication systems. The difficulty increases by one for each additional # and the
+jamming affects an additional target for each t> spent.</Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>COMP</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>BOOSTSHIELD</Key>
+    <Name>Boost Shields</Name>
+    <Description>
+      The crewmember reroutes power from other systems to boost the defensive systems of a
+vehicle. This only works if the vehicle already has a defense rating. On a successful check, the
+vehicle suffers 1 system strain and increases the defense of one defense zone by one until
+the beginning of his next turn. Additional [SU] increase the duration by one round per [SU]
+    </Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>MECH</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>MANREP</Key>
+    <Name>Manual Repairs</Name>
+    <Description>
+      In some cases, repairs can be as simple as a sturdy metal plate welded over a damaged
+system. If the CM allows it and the crewmember has the proper tools for the job, the
+crewmember can attempt to use the Damage Control action with Athletics rather than
+Mechanics. If successful, he may remove 1 point of hull trauma from the ship, plus 1
+additional point for each additional [SU] [SU] .Remember, this follows the limitations of the
+Damage Control action, and thus may only be attempted once per encounter.
+    </Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>ATHL</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>FIREDISC</Key>
+    <Name>Fire Discipline</Name>
+    <Description>
+      The crewmember forgoes fighting to analyze the opponents' tactics and direct his fellows to
+greater accuracy with their weapons fire. If successful, the next crewmember firing a weapon
+aboard the ship can add [BO] to his check. Each additional [SU] [SU] grants this to an additional
+crewmember. In addition, the crewmember may spend [AD] [AD] [AD] to allow every hit from
+shipboard weapons to inflict 1 system strain on their target as well as regular damage until
+the beginning of his next turn as the carefully timed shots pummel shields and overload
+systems.
+    </Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>DISC</Key>
+      <Key>LEAD</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>SCANENEMY</Key>
+    <Name>Scan the Enemy</Name>
+    <Description>
+      The crewmember uses the ship's scanners to study the enemy. If successful, he learns what
+weapons the ship has. its modifications, and its system strain and hull trauma thresholds. If
+he spends [AD] [AD] he can also learn its current system strain and hull trauma levels.
+    </Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>PERC</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>SLICE</Key>
+    <Name>Slice Enemy's Systems</Name>
+    <Description>
+      The crewmember uses powerful shipboard computers to attempt to disrupt the systems of
+an enemy vehicle. If successful, he reduces the defense of one zone on the target vehicle for
+one round per [SU] .A [TR] may be spent to disable a weapon system for one round, and [SU] [SU]
+may be spent to inflict 1 system strain on the target vehicle.
+    </Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>COMP</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>SPOOFMISS</Key>
+    <Name>Spoof Missiles</Name>
+    <Description>
+      The crewmember tracks incoming attacks and uses vehicle systems to disrupt their tracking
+systems, or even times incoming missiles and drops flares and chaff at the opportune
+moment If successful, any attacks against the crewmember's ship or vehicle using weapons
+with the Guided quality upgrade their difficulty by one (plus an additional upgrade for every
+additional [AD] [AD] ) until the start of the crewmember's next turn
+    </Description>
+    <Sources>
+      <Source Page="237">Edge of the Empire Core Rulebook</Source>
+      <Source Page="248">Age of Rebellion Core Rulebook</Source>
+      <Source Page="241">Force and Destiny Core Rulebook</Source>
+    </Sources>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>COMP</Key>
+      <Key>VIGIL</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>MECHWATCHBACK</Key>
+    <Name>Watch Your Back!</Name>
+    <Description>Please see page 73 of the Stay on Target Sourcebook for details</Description>
+    <Source Page="73">Stay on Target</Source>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Active>true</Active>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>COMP</Key>
+    </Skills>
+  </VehAction>
+  <VehAction>
+    <Key>MECHTARGETLOCK</Key>
+    <Name>Target Lock</Name>
+    <Description>Please see page 73 of the Stay on Target Sourcebook for details</Description>
+    <Source Page="73">Stay on Target</Source>
+    <ActionTypeValue>vaAction</ActionTypeValue>
+    <PilotOnly>false</PilotOnly>
+    <SilhLow>-1</SilhLow>
+    <SilhHigh>-1</SilhHigh>
+    <SpeedLow>-1</SpeedLow>
+    <SpeedHigh>-1</SpeedHigh>
+    <Active>true</Active>
+    <VehicleOnly>true</VehicleOnly>
+    <Skills>
+      <Key>COMP</Key>
+    </Skills>
+  </VehAction>
+</VehActions>
